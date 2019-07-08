@@ -62,7 +62,7 @@
     {
       "url": "https://github.com/Microsoft/templates.docs.msft",
       "branch_mapping": {},
-      "branch": "master",
+      "branch": "real-api-usage",
       "path_to_root": "_themes"
     },
     {
